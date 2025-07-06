@@ -1,0 +1,6 @@
+[submodule "scene-match-backend"]
+	path = scene-match-backend
+	url = https://github.com/nanashi-03/scene-match-backend.git
+[submodule "scene-match-frontend"]
+	path = scene-match-frontend
+	url = https://github.com/nanashi-03/scene-match-frontend.git
